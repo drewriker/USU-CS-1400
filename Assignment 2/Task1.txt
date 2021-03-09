@@ -1,0 +1,23 @@
+Write this program in a file called task1.py. You will draw a picture using turtle. Draw a picture of a snowman.
+The picture must have the following characteristics:
+
+  1. It must have 3 circles for the body (head included)
+   1. Circles must overlap
+    2.White circles with black outline
+  2. Eyes - black circle eyes
+  3. Mouth - You choose how to make it
+  4. 3 buttons on its “coat”
+    1. Buttons can be any shape
+    2. Fill with any color besides white or black
+  5. Hat
+    1. You pick the style of hat
+    2. Fill with any color besides white or black
+    3. Outline of hat should be a distinctly different color than the filled in color
+  6. Arms and hands (sticks)
+    1. Lines should be thicker than default
+    2. Brown color for fill and outline
+    3. At least three fingers
+
+As always, please see the rubic for other grading details.
+Submit using the standard class conventions for naming of files.
+This is required on all future assignments, but a reminder may not be given.
